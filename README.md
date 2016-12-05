@@ -8,7 +8,5 @@ Obs.: Global task don't start Watch task. It's just for building/compiling files
 ### Gulp-config.js
 This file just sets the path to your dist folder. You'll see it in every gulp task.
 
-### Gulp-taks / Folder
+### Gulp-tasks / Folder
 In this folder you'll find all tasks (module.exports) that gulpfile calls. Feel free to make pull requests for any corrections or improvements.
-
-
